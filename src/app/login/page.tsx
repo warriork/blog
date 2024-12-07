@@ -72,7 +72,7 @@ const LoginPage: React.FC = () => {
           <div className="flex justify-between items-center">
             <button
               type="submit"
-              className="btn"
+              className="btn ml-auto"
               disabled={isLoading}
             >
               Log In
